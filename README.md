@@ -1,2 +1,2 @@
 # webdev
-repo for learning web developer skills and for associated website
+This is a repo for learning web developer skills and also for the associated website
